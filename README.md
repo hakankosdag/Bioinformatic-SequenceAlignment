@@ -1,2 +1,2 @@
-# Bioinformatic-
+# Bioinformatic
 Sequence Alignment
